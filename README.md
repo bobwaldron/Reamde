@@ -15,4 +15,6 @@ But I've never had a job or an intensely-pursued leisure activity that caused me
 
 If I do become halfway skilled at coding, it will probably be with either Python or microcontroller coding using the Arduino platform or a branch of that.
 
+Update: 31 Oct 2015 --- I'm working on the Digital Ocean Hacktoberfest promo, but am only mildly acquainted with the pull request process. This update is being entered as an attempt to generate a fourth pull request.
+
 ***** end of file *****
