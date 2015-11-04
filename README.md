@@ -17,4 +17,6 @@ If I do become halfway skilled at coding, it will probably be with either Python
 
 Update: 31 Oct 2015 --- I'm working on the Digital Ocean Hacktoberfest promo, but am only mildly acquainted with the pull request process. This update is being entered as an attempt to generate a fourth pull request.
 
+Update: 04 Nov 2015 --- Woo hoo! Digital Ocean said I completed the requirements for the Hacktoberfest shirt promo, and I filled out the size and address form. Need to work with DO, GitHub and others to develop more promo / incentive ideas to get more civic hackers and coders active in NE Wisc collaborative activities.
+
 ***** end of file *****
